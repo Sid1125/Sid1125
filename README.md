@@ -1,56 +1,73 @@
 # 👋 Hi, I'm Siddharth Sinha! 
 
-### 🚀 B.Tech CSE Student | Web Developer | Tech Enthusiast
+### 🔐 B.Tech CSE Student | Cybersecurity Enthusiast | Tech Explorer
 
-I'm currently a second-year B.Tech Computer Science student at Amity University, Haryana, with a passion for solving real-world problems through technology. I love to experiment with web development, explore different programming languages, and continuously improve my skills.
-
----
-
-## 🌟 Skills 
-- **Languages**: HTML, CSS, JavaScript, Python, C, C++
-- **Databases**: MySQL, MongoDB (Basics)
-- **Frameworks**: Bootstrap, Node.js (Learning)
-- **Tools**: Git, GitHub, VS Code
-- **Others**: Basic Graphic Designing
+I'm a second-year B.Tech Computer Science student at Amity University, Haryana, deeply passionate about cybersecurity and ethical hacking. My mission is to build secure systems, understand digital threats, and use tech to create safer, smarter digital spaces. While I started out with web development, my focus has expanded into cybersecurity and ethical hacking.
 
 ---
 
-## 💼 Projects
-
-### 1. [Tic-Tac-Toe Game](https://github.com/Sid1125/PRODIGY_WD_03)
-- A web-based Tic-Tac-Toe game with an AI opponent using the Minimax algorithm.
-- Implements dark mode and lap functionality for a more sophisticated user experience.
-
-### 2. [Discord Bot](https://github.com/Sid1125/DrFUSED)
-- A custom-built Discord bot that enhances server interaction and automates tasks.
-- Features include music playback, moderation commands, and a LOT more to explore.
-- Built using **Discord.js**, it integrates with various APIs to deliver dynamic content and services.
-
-### 3. [Student Database Management System](https://github.com/Sid1125/LibraryManagementSystem)
-- A project focusing on creating a simplified GUI-Based library database management system.
-- Built using MySQL for database management and Python for data processing.
-
-### 4. [Personal Portfolio Website](https://sid1125.github.io/portfolio/)
-
-For more, check out [my GitHub repositories](https://github.com/Sid1125?tab=repositories)!
+## 🛡️ Cybersecurity Focus
+- Passionate about network security, ethical hacking, and cyber defense.
+- Exploring vulnerabilities, penetration testing, and secure coding practices.
+- Actively learning tools like Wireshark, Nmap, Metasploit, and Burp Suite.
 
 ---
 
-## 💻 What I'm Learning
-- Deepening my knowledge of **full-stack web development**.
-- Exploring more **JavaScript frameworks** (React, Node.js).
-- Continuing to improve my **problem-solving** skills through coding challenges.
+## 📜 Certifications
+- **Cybersecurity Fundamentals** – *IBM SkillsBuild*, Apr 2025  
+- **Introduction to Cybersecurity** – *Cisco NetAcad*, Apr 2025  
+- **Fortinet Certified Fundamentals in Cybersecurity**, Apr 2025  
 
 ---
 
-## 📫 How to reach me:
-- Email: [siddharthsinha1125@gmail.com](mailto:siddharthsinha1125@gmail.com)
-- LinkedIn: [Siddharth Sinha](https://www.linkedin.com/in/ssinha1125/)
+## 🛠️ Skills 
+- **Languages**: Python, C, C++, JavaScript, HTML, CSS  
+- **Cyber Tools**: Nmap, Wireshark (Basics), Burp Suite (Learning), Metasploit (Learning)  
+- **Databases**: MySQL, MongoDB (Basics)  
+- **Frameworks**: Node.js (Learning), Bootstrap  
+- **Tools**: Git, GitHub, VS Code  
+- **Others**: Basic Graphic Designing  
+
+---
+
+## 💼 Key Projects
+
+### 🔹 [Discord Bot - Dr FUSED](https://github.com/Sid1125/DrFUSED)
+- Multifunctional bot for server management, entertainment, and automation.
+- Built using **Discord.js**, integrated with APIs, and scalable for communities.
+- Includes moderation, games, utilities, and music—designed with user safety in mind.
+
+### 🔹 [Tic-Tac-Toe with AI](https://github.com/Sid1125/PRODIGY_WD_03)
+- Web-based game using Minimax algorithm for unbeatable AI.
+- Clean UI, dark mode, and extra features for enhanced UX.
+
+### 🔹 [Student DB Management System](https://github.com/Sid1125/LibraryManagementSystem)
+- GUI-based library database using Python and MySQL.
+- Focused on secure CRUD operations and structured data flow.
+
+### 🔹 [Personal Portfolio](https://sid1125.github.io/portfolio/)
+- Showcasing my projects, skills, and experience in a sleek, responsive layout.
+
+---
+
+## 📚 Currently Learning
+- Advanced cybersecurity concepts and attack vectors  
+- Full-stack development (React + Node.js)  
+- Capture The Flag (CTF) challenges & cybersecurity labs  
+
+---
+
+## 📫 Reach Out
+- Email: [siddharthsinha1125@gmail.com](mailto:siddharthsinha1125@gmail.com)  
+- LinkedIn: [Siddharth Sinha](https://www.linkedin.com/in/ssinha1125/)  
+- GitHub: [@Sid1125](https://github.com/Sid1125)  
 
 ---
 
 ## 🎯 Goals
-- **Short-term**: Enhance my web development skills by building more full-stack applications.
-- **Long-term**: Become proficient in machine learning and artificial intelligence. Obtaining a Certified Ethical Hacker achievement.
+- **Short-term**: Get hands-on with real-world cybersecurity tools and participate in bug bounty programs.  
+- **Long-term**: Achieve CEH and OSCP certifications, contribute to open-source cyber projects, and work in gov-tech security initiatives.
 
-Feel free to connect and collaborate on any exciting projects! Let's build something awesome together! 💡
+---
+
+💡 *Let’s secure the digital world—one vulnerability at a time.*
