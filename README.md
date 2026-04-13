@@ -1,111 +1,158 @@
-# 👋 Hi, I'm Siddharth Sinha!
+# 👋 Hi, I'm Siddharth Sinha  
 
-### 🔐 B.Tech CSE Student | Cybersecurity Enthusiast | Tech Explorer
+### 🔐 Cybersecurity | AI Systems | Full-Stack Development  
 
-I'm a third-year B.Tech Computer Science student at Amity University, Haryana, deeply passionate about cybersecurity and ethical hacking. My mission is to build secure systems, understand digital threats, and use tech to create safer, smarter digital spaces. While I started out with web development, my focus has expanded into cybersecurity and ethical hacking.
+Third-year B.Tech Computer Science student at Amity University Haryana, working at the intersection of **cybersecurity, AI systems, and scalable backend architecture**.  
 
----
-
-## 🛡️ Cybersecurity Focus
-
-* Passionate about network security, ethical hacking, and cyber defense.
-* Exploring vulnerabilities, penetration testing, and secure coding practices.
-* Proficient with tools like Nmap, Wireshark, Burp Suite, Metasploit, Nikto, Gobuster, WhatWeb.
-* Actively integrating threat intelligence APIs (AbuseIPDB, AlienVault OTX, CVE databases).
+I focus on building **intelligent security platforms, automated reconnaissance pipelines, and LLM-integrated systems** that move beyond theory into real-world applications.
 
 ---
 
-## 📜 Certifications
+## 🛡️ Cybersecurity & AI Focus  
 
-* **Cybersecurity Fundamentals** – *IBM SkillsBuild*, Apr 2025
-* **Introduction to Cybersecurity** – *Cisco NetAcad*, Apr 2025
-* **Fortinet Certified Fundamentals in Cybersecurity**, Apr 2025
-
----
-
-## 🛠️ Skills
-
-* **Languages**: Python, C, C++, JavaScript, HTML, CSS
-* **Cyber Tools**: Nmap, Wireshark, Burp Suite, Metasploit, Nikto, Gobuster, WhatWeb
-* **Databases**: MySQL, MongoDB (Basics)
-* **Frameworks**: Node.js (Learning), Bootstrap
-* **Tools**: Git, GitHub, VS Code, Docker, PowerShell, Linux (Basics)
-* **Others**: Basic Graphic Designing, Markdown, API Integration
+- Building **SOC-style systems** and automated threat intelligence pipelines  
+- Working with **network security, vulnerability assessment, and reconnaissance automation**  
+- Exploring **AI-driven security workflows**, including anomaly detection and LLM-based systems  
+- Integrating **threat intelligence sources** (CVE, AlienVault OTX, AbuseIPDB)  
 
 ---
 
-## 💼 Key Projects
+## 🛠️ Technical Skills  
 
-### 🔹 [AgentRecon](https://github.com/Sid1125/AgentRecon)
-
-A **modular AI-assisted reconnaissance pipeline** for cybersecurity assessments. Combines traditional security scanning tools with modern LLM-driven orchestration to automate and enrich port scanning, vulnerability discovery, CVE enrichment, false positive filtering, and more.
-
-**Features:**
-
-* Dockerized scanning stack (Nmap, Nikto, SSLyze, Gobuster, WhatWeb)
-* CVE enrichment using AlienVault OTX + NVD APIs
-* LangGraph agent orchestrating modules using natural language
-* False positive filtering via AI
-* Markdown + JSON log outputs
-* Web-based UI using OpenWebUI (Ollama)
-
-### 🔹 Project SENTINEL *(Full Stack AI-Powered SOC Suite)*
-
-A comprehensive **Security Operations Center (SOC)** solution integrating traditional scanning, threat detection, and automated incident response powered by AI.
-
-**Modules:**
-
-* Recon and vulnerability assessment (Nmap + OpenVAS)
-* CVE enrichment and threat intelligence lookups (AlienVault, AbuseIPDB, NVD)
-* ML and LLM-based threat detection using Random Forest, SVM, DL, GPT/BERT
-* Explainability (SHAP, LIME)
-* Reinforcement learning-based adaptive defense
-* Honeypots (Cowrie, Dionaea)
-* Blockchain-based logging for audit trails
-* Compliance Engine (NIST, ISO, HIPAA)
-* Plugin system + lightweight endpoint agents (like osquery)
-
-### 🔹 Project SENTINEL: Omega Protocol *(Work in Progress)*
-
-An **AI-powered autonomous red team** that:
-
-* Scans, simulates MITRE ATT\&CK behaviors using Caldera & Atomic Red Team
-* Records findings, severity levels, CVSS scores, and remediation
-* Generates detailed VAPT reports in markdown/PDF
-* Integrates honeypots (Cowrie, Dionaea), blockchain-based audit logs, and AI explainability (SHAP, LIME)
-
-### 🔹 [Discord Bot - Dr FUSED](https://github.com/Sid1125/DrFUSED)
-
-* Multifunctional bot for server management, entertainment, and automation.
-* Built using **Discord.js**, integrated with APIs, and scalable for communities.
-* Includes moderation, games, utilities, and music—designed with user safety in mind.
-
-### 🔹 [Tic-Tac-Toe with AI](https://github.com/Sid1125/PRODIGY_WD_03)
-
-* Web-based game using Minimax algorithm for unbeatable AI.
-* Clean UI, dark mode, and extra features for enhanced UX.
-
-### 🔹 [Student DB Management System](https://github.com/Sid1125/LibraryManagementSystem)
-
-* GUI-based library database using Python and MySQL.
-* Focused on secure CRUD operations and structured data flow.
-
-### 🔹 [Personal Portfolio](https://sid1125.github.io/portfolio/)
-
-* Showcasing my projects, skills, and experience in a sleek, responsive layout.
+- **Languages:** Python, C, C++, JavaScript  
+- **Cybersecurity:** Nmap, Wireshark, Burp Suite, Metasploit, Nikto, Gobuster  
+- **Backend & Systems:** FastAPI, Node.js, SQLAlchemy, REST APIs, WebSockets  
+- **Databases:** MySQL, MongoDB (Basics), SQLite  
+- **AI/ML:** XGBoost, NLP pipelines, RAG systems, LLM integration (Ollama/OpenAI)  
+- **Frontend:** React, HTML, CSS, Tailwind  
+- **Tools:** Git, Linux, Docker (Basics), Postman  
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Key Projects  
 
-* Advanced cybersecurity techniques and adversarial AI
-* Red team simulations and VAPT methodologies
-* Full-stack development (React + Node.js)
-* Capture The Flag (CTF) challenges & cybersecurity labs
+### 🔹 [Project SENTINEL](https://github.com/Sid1125/Project-SENTINEL)  
+**AI-powered Network Threat Intelligence & Monitoring Platform**  
+
+- Full-stack cybersecurity platform using FastAPI, React, and WebSockets  
+- ARP scanning + Nmap enumeration with CVE-based vulnerability analysis  
+- Natural language control via local LLMs (Ollama)  
+- Modular SOC-style architecture (extensible to IDS/IPS & auto-defense)  
 
 ---
 
-## 📫 Reach Out
+### 🔹 [AI Research Agent (RAG System)](https://github.com/Sid1125/Primitive-Research-RAG)  
+**LLM-powered Private Document Question Answering System**  
+
+- Hybrid RAG pipeline (NLTK + chunking + dense + TF-IDF retrieval)  
+- Custom Siamese BiLSTM embedding model (Keras)  
+- Grounded LLM answers with extractive fallback  
+- Modular pipeline: ingestion → retrieval → generation  
+
+---
+
+### 🔹 [F1 Insight Platform](https://github.com/Sid1125/F1-Insight)  
+**Full-stack Analytics & Race Strategy Simulation System**  
+
+- FastAPI + Streamlit + SQLAlchemy analytics system  
+- XGBoost-based race outcome prediction  
+- Strategy simulation (pit stops, tyre management)  
+- AI-powered natural language querying  
+
+---
+
+### 🔹 [AgentRecon](https://github.com/Sid1125/AgentRecon)  
+**AI-assisted Reconnaissance & Vulnerability Analysis Pipeline**  
+
+- Automated recon using Nmap, Masscan, Nikto, Gobuster, SSLyze  
+- CVE enrichment via NVD + AlienVault OTX  
+- AI-based false positive filtering  
+
+---
+
+### 🔹 [HITMEN](https://github.com/Sid1125/hitmen_epi_prevention)  
+**Community-driven Harmful Content Tracking Platform**  
+
+- Crowdsourced tracking system for flagged entities  
+- Discord API integration for real-time updates  
+- Automated verification and moderation pipeline  
+
+---
+
+### 🔹 [Discord Bot – Dr FUSED](https://github.com/Sid1125/DrFUSED)  
+**Modular Automation & Moderation System**  
+
+- Built using Node.js and MongoDB  
+- Role-based access control and permission logic  
+- Moderation, logging, and interactive commands  
+
+---
+
+### 🔹 [Innovathon Platform](https://innovathon2.onrender.com)  
+**Full-stack Hackathon Management System**  
+
+- Event platform with structured sections (tracks, sponsors, timelines)  
+- Responsive UI and scalable content architecture  
+- Designed for real-world deployment  
+
+---
+
+### 🔹 [Mission Veerangana Website](https://mission-veerangana-site.onrender.com/)  
+**Workshop Platform for Women’s Safety Initiative**  
+
+- Built for a workshop in collaboration with Haryana Police & AUH  
+- Structured event content, training modules, and registration flow  
+- Focus on awareness, accessibility, and outreach  
+
+---
+
+### 🔹 [Global Connect Hub](https://global-connect-hub-two.vercel.app/)  
+**University Collaboration & Outreach Platform**  
+
+- Platform for international programs and partnerships  
+- Multi-section architecture (partners, impact, testimonials)  
+- Responsive and scalable UI design  
+
+---
+
+### 🔹 [ClipSync](https://clip-sync-three.vercel.app/sign-in.html)  
+**Authenticated Clipboard & Content Management System**  
+
+- User authentication and session handling  
+- Search, filtering, and structured content storage  
+- Clean UI for managing text-based data  
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 Top 13 / 80 teams in CTF (IEEE-CS × IIT Bombay Trust Lab)  
+- 💡 Participant – Smart India Hackathon 2024  
+- 🔥 100-day streak on TryHackMe (Level: Hacker)  
+
+---
+
+## 📜 Certifications  
+
+- Cybersecurity Fundamentals – IBM SkillsBuild  
+- Introduction to Cybersecurity – Cisco Networking Academy  
+- Fortinet Certified Fundamentals in Cybersecurity  
+- Responsive Web Design – freeCodeCamp  
+- JavaScript Algorithms & Data Structures – freeCodeCamp  
+- Google Cloud Computing Fundamentals & Generative AI – Google Cloud  
+
+---
+
+## 📚 Currently Exploring  
+
+- Advanced cybersecurity systems & adversarial AI  
+- Red team automation and MITRE ATT&CK simulations  
+- LLM-integrated security tooling  
+- Scalable backend architectures  
+
+---
+
+## 📫 Connect  
 
 * Email: [siddharthsinha1125@gmail.com](mailto:siddharthsinha1125@gmail.com)
 * LinkedIn: [Siddharth Sinha](https://www.linkedin.com/in/ssinha1125/)
@@ -113,11 +160,11 @@ An **AI-powered autonomous red team** that:
 
 ---
 
-## 🎯 Goals
+## 🎯 Goals  
 
-* **Short-term**: Contribute to red/blue team tooling, participate in bug bounty programs, and improve LLM integration into cybersecurity pipelines.
-* **Long-term**: Achieve CEH and OSCP certifications, contribute to open-source threat intel platforms, and build secure-by-design autonomous defense systems.
+- **Short-term:** Build advanced cybersecurity tooling and deepen AI integration  
+- **Long-term:** Develop autonomous AI-driven defense systems and contribute to open-source security  
 
 ---
 
-💡 *Let’s secure the digital world—one vulnerability at a time.*
+💡 *Building systems that don’t just work — but defend.*
