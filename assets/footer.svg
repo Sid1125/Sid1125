@@ -1,0 +1,32 @@
+<svg width="1600" height="180" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1600" height="180" fill="#050505"/>
+
+<line x1="0" y1="30" x2="1600" y2="30"
+stroke="#8b0000"/>
+
+<text
+x="800"
+y="95"
+fill="#8b0000"
+font-size="30"
+text-anchor="middle"
+font-family="JetBrains Mono">
+
+SYSTEM STATUS : ONLINE
+
+</text>
+
+<text
+x="800"
+y="135"
+fill="#888"
+font-size="18"
+text-anchor="middle"
+font-family="JetBrains Mono">
+
+SIDDHARTH SINHA • CYBERSECURITY • DIGITAL FORENSICS • AI
+
+</text>
+
+</svg>
