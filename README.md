@@ -17,7 +17,7 @@
 
 ---
 
-# > ACCESSING PERSONNEL RECORD...
+<h1 align="center">> ACCESSING PERSONNEL RECORD...</h1>
 
 ```text
 ============================================================
@@ -39,20 +39,22 @@ INITIALIZATION COMPLETE
 ============================================================
 ```
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%">
+<td width="60%" align="center">
+<div align="center">
 
-# Siddharth Sinha
+<h1 align="center">Siddharth Sinha</h1>
 
 Cybersecurity student focused on **AI-powered security systems**, **digital forensics**, **telecom intelligence**, and **backend engineering**.
 
 I build platforms that transform raw security data into actionable intelligence: from reconstructing communication networks to automating reconnaissance pipelines and designing privacy-first AI systems capable of operating in offline environments.
 
 Instead of building isolated tools, I build **complete investigation ecosystems**.
+</div>
 
 </td>
-<td width="40%">
+<td width="40%" align="center">
 
 ```text
 CURRENT MISSION
@@ -75,11 +77,11 @@ CURRENT MISSION
   <img src="assets/divider.svg" width="100%" alt="divider">
 </div>
 
-# CLASSIFIED DOSSIER
+<h1 align="center">CLASSIFIED DOSSIER</h1>
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
 ```yaml
 PERSONNEL_ID:
@@ -93,7 +95,7 @@ SPECIALIZATION:
 ```
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
 ```yaml
 EDUCATION:
@@ -107,7 +109,7 @@ GRADUATION:
 ```
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
 ```yaml
 RESEARCH:
@@ -125,13 +127,13 @@ RESEARCH:
 
 ---
 
-# OPERATIONAL STATUS
+<h1 align="center">OPERATIONAL STATUS</h1>
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="33%">
 
-### AI Systems
+<h3 align="center">AI Systems</h3>
 
 ```text
 ##########
@@ -141,7 +143,7 @@ ONLINE
 </td>
 <td align="center" width="33%">
 
-### Threat Intelligence
+<h3 align="center">Threat Intelligence</h3>
 
 ```text
 ##########
@@ -151,7 +153,7 @@ ONLINE
 </td>
 <td align="center" width="33%">
 
-### Digital Forensics
+<h3 align="center">Digital Forensics</h3>
 
 ```text
 ##########
@@ -163,7 +165,7 @@ ONLINE
 <tr>
 <td align="center" width="33%">
 
-### Backend Engineering
+<h3 align="center">Backend Engineering</h3>
 
 ```text
 ##########
@@ -173,7 +175,7 @@ ONLINE
 </td>
 <td align="center" width="33%">
 
-### Vulnerability Assessment
+<h3 align="center">Vulnerability Assessment</h3>
 
 ```text
 ##########
@@ -183,7 +185,7 @@ ONLINE
 </td>
 <td align="center" width="33%">
 
-### Research
+<h3 align="center">Research</h3>
 
 ```text
 ##########
@@ -196,13 +198,13 @@ ONLINE
 
 ---
 
-# LIVE TELEMETRY
+<h1 align="center">LIVE TELEMETRY</h1>
 
-<table>
+<table width="100%">
 <tr>
 <td width="25%" align="center">
 
-## EXPERIENCE
+<h2 align="center">EXPERIENCE</h2>
 
 ```text
 4+
@@ -212,7 +214,7 @@ Internships
 </td>
 <td width="25%" align="center">
 
-## PROJECTS
+<h2 align="center">PROJECTS</h2>
 
 ```text
 10+
@@ -222,7 +224,7 @@ Systems Built
 </td>
 <td width="25%" align="center">
 
-## SECURITY
+<h2 align="center">SECURITY</h2>
 
 ```text
 100+
@@ -232,7 +234,7 @@ TryHackMe Days
 </td>
 <td width="25%" align="center">
 
-## STATUS
+<h2 align="center">STATUS</h2>
 
 ```text
 ONLINE
@@ -245,7 +247,7 @@ ONLINE
 
 ---
 
-# TECHNOLOGY ARSENAL
+<h1 align="center">TECHNOLOGY ARSENAL</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,nodejs,react,nextjs,fastapi,docker,postgres,mysql,mongodb,linux,git,github,tensorflow&perline=9" alt="Tech stack">
@@ -255,11 +257,11 @@ ONLINE
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
-<td width="25%">
+<td width="25%" align="center">
 
-### LANGUAGES
+<h3 align="center">LANGUAGES</h3>
 - Python
 - C
 - C++
@@ -267,9 +269,9 @@ ONLINE
 - TypeScript
 
 </td>
-<td width="25%">
+<td width="25%" align="center">
 
-### BACKEND
+<h3 align="center">BACKEND</h3>
 - FastAPI
 - Node.js
 - REST APIs
@@ -277,9 +279,9 @@ ONLINE
 - WebSockets
 
 </td>
-<td width="25%">
+<td width="25%" align="center">
 
-### DATA
+<h3 align="center">DATA</h3>
 - PostgreSQL
 - SQLite
 - MySQL
@@ -287,9 +289,9 @@ ONLINE
 - Redis
 
 </td>
-<td width="25%">
+<td width="25%" align="center">
 
-### CYBER
+<h3 align="center">CYBER</h3>
 - Burp Suite
 - Nmap
 - Metasploit
@@ -299,9 +301,9 @@ ONLINE
 </td>
 </tr>
 <tr>
-<td width="25%">
+<td width="25%" align="center">
 
-### AI
+<h3 align="center">AI</h3>
 - TensorFlow
 - Keras
 - Ollama
@@ -309,9 +311,9 @@ ONLINE
 - LoRA
 
 </td>
-<td width="25%">
+<td width="25%" align="center">
 
-### FRONTEND
+<h3 align="center">FRONTEND</h3>
 - React
 - Next.js
 - TailwindCSS
@@ -319,9 +321,9 @@ ONLINE
 - CSS
 
 </td>
-<td width="25%">
+<td width="25%" align="center">
 
-### ANALYTICS
+<h3 align="center">ANALYTICS</h3>
 - Pandas
 - NetworkX
 - D3.js
@@ -329,9 +331,9 @@ ONLINE
 - Plotly
 
 </td>
-<td width="25%">
+<td width="25%" align="center">
 
-### DEVOPS
+<h3 align="center">DEVOPS</h3>
 - Docker
 - Linux
 - GitHub Actions
@@ -344,28 +346,74 @@ ONLINE
 
 ---
 
-# CYBERSECURITY TOOLKIT
+<h1 align="center">CYBERSECURITY TOOLKIT</h1>
 
-| Recon | Exploitation | Analysis | Intelligence |
-|:--|:--|:--|:--|
-| Nmap | Burp Suite | Wireshark | CVE |
-| Masscan | Metasploit | NetworkX | AlienVault OTX |
-| Gobuster | SQLMap | Pandas | AbuseIPDB |
-| Nikto | OWASP | D3.js | MITRE ATT&CK |
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+
+<h3 align="center">Recon</h3>
+
+```text
+Nmap
+Masscan
+Gobuster
+Nikto
+```
+
+</td>
+<td align="center" width="25%">
+
+<h3 align="center">Exploitation</h3>
+
+```text
+Burp Suite
+Metasploit
+SQLMap
+OWASP
+```
+
+</td>
+<td align="center" width="25%">
+
+<h3 align="center">Analysis</h3>
+
+```text
+Wireshark
+NetworkX
+Pandas
+D3.js
+```
+
+</td>
+<td align="center" width="25%">
+
+<h3 align="center">Intelligence</h3>
+
+```text
+CVE
+AlienVault OTX
+AbuseIPDB
+MITRE ATT&CK
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# COMMAND CENTER
+<h1 align="center">COMMAND CENTER</h1>
 
 <div align="center">
   <img src="assets/radar.svg" width="100%" alt="Command center radar">
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
-### ACTIVE OPERATIONS
+<h3 align="center">ACTIVE OPERATIONS</h3>
 
 ```text
 ARGUS
@@ -382,9 +430,9 @@ ONLINE
 ```
 
 </td>
-<td width="34%">
+<td width="34%" align="center">
 
-### SYSTEM HEALTH
+<h3 align="center">SYSTEM HEALTH</h3>
 
 ```text
 Backend
@@ -401,9 +449,9 @@ AI Modules
 ```
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-### INVESTIGATION STATUS
+<h3 align="center">INVESTIGATION STATUS</h3>
 
 ```text
 Threat Intelligence
@@ -422,7 +470,7 @@ ACTIVE
 
 ---
 
-# INVESTIGATION WORKFLOW
+<h1 align="center">INVESTIGATION WORKFLOW</h1>
 
 ```mermaid
 graph TD
@@ -440,7 +488,7 @@ graph TD
   <img src="assets/divider.svg" width="100%" alt="divider">
 </div>
 
-# ACTIVE OPERATIONS
+<h1 align="center">ACTIVE OPERATIONS</h1>
 
 <div align="center">
 
@@ -448,7 +496,7 @@ graph TD
 
 </div>
 
-## OPERATION ARGUS
+<h2 align="center">OPERATION ARGUS</h2>
 
 <img src="assets/argus-banner.svg" width="100%" alt="Operation ARGUS banner">
 
@@ -465,11 +513,11 @@ Project ARGUS is a forensic-grade **CDR/IPDR investigation platform** designed f
 
 Instead of simply displaying telecom records, ARGUS reconstructs relationships, movement patterns, communication behavior, and network intelligence from large telecom datasets. It is designed around offline-first architecture so it can operate inside secure environments without cloud connectivity.
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### Investigation
+<h3 align="center">Investigation</h3>
 - Communication Graph Analysis
 - Tower Movement Mapping
 - Timeline Reconstruction
@@ -478,9 +526,9 @@ Instead of simply displaying telecom records, ARGUS reconstructs relationships, 
 - Pattern Correlation
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### AI & Analytics
+<h3 align="center">AI & Analytics</h3>
 - Investigation Summaries
 - Behavior Analysis
 - Suspicious Cluster Detection
@@ -526,7 +574,7 @@ graph LR
 
 ---
 
-## OPERATION SENTINEL
+<h2 align="center">OPERATION SENTINEL</h2>
 
 <img src="assets/sentinel-banner.svg" width="100%" alt="Operation SENTINEL banner">
 
@@ -539,29 +587,29 @@ DEPLOYMENT         : Offline SOC
 
 Project SENTINEL is an AI-powered security operations platform for autonomous network discovery, vulnerability assessment, threat intelligence, and local-first security analytics.
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
-### Network Discovery
+<h3 align="center">Network Discovery</h3>
 - ARP Discovery
 - Host Enumeration
 - Port Scanning
 - Service Detection
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-### Threat Intelligence
+<h3 align="center">Threat Intelligence</h3>
 - CVE Lookup
 - Vulnerability Correlation
 - Risk Prioritization
 - Asset Inventory
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-### AI Layer
+<h3 align="center">AI Layer</h3>
 - Local LLM
 - Natural Language Queries
 - Report Generation
@@ -598,7 +646,7 @@ graph TD
 
 ---
 
-## OPERATION AGENTRECON
+<h2 align="center">OPERATION AGENTRECON</h2>
 
 <img src="assets/agentrecon-banner.svg" width="100%" alt="Operation AgentRecon banner">
 
@@ -622,20 +670,20 @@ graph LR
     Risk_Ranking --> HTML_Report
 ```
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### Recon Modules
+<h3 align="center">Recon Modules</h3>
 - Host Discovery
 - Port Enumeration
 - Web Enumeration
 - TLS Analysis
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### Intelligence Layer
+<h3 align="center">Intelligence Layer</h3>
 - CVE Enrichment
 - False Positive Reduction
 - HTML Reporting
@@ -666,13 +714,13 @@ graph LR
   <img src="assets/divider.svg" width="100%" alt="divider">
 </div>
 
-# RESEARCH SYSTEMS
+<h1 align="center">RESEARCH SYSTEMS</h1>
 
-<table>
+<table width="100%">
 <tr>
-<td width="48%">
+<td width="48%" align="center">
 
-## AI RESEARCH AGENT
+<h2 align="center">AI RESEARCH AGENT</h2>
 
 ```text
 STATUS      : STABLE
@@ -693,10 +741,10 @@ A private knowledge assistant built for environments where confidentiality matte
 [View project](https://github.com/Sid1125/Primitive-Research-RAG)
 
 </td>
-<td width="4%"></td>
-<td width="48%">
+<td width="4%" align="center"></td>
+<td width="48%" align="center">
 
-## F1 INSIGHT
+<h2 align="center">F1 INSIGHT</h2>
 
 ```text
 STATUS      : RELEASED
@@ -719,11 +767,11 @@ A Formula 1 analytics platform capable of predicting race outcomes, evaluating p
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
-<td width="48%">
+<td width="48%" align="center">
 
-## HITMEN
+<h2 align="center">HITMEN</h2>
 
 ```text
 STATUS      : DEPLOYED
@@ -735,10 +783,10 @@ A crowdsourced reporting platform focused on harmful-content tracking and modera
 [View project](https://github.com/Sid1125/hitmen_epi_prevention)
 
 </td>
-<td width="4%"></td>
-<td width="48%">
+<td width="4%" align="center"></td>
+<td width="48%" align="center">
 
-## OIA INTERNATIONAL HUB
+<h2 align="center">OIA INTERNATIONAL HUB</h2>
 
 ```text
 STATUS      : LIVE
@@ -752,9 +800,9 @@ A modern international collaboration platform developed for the Office of Intern
 </td>
 </tr>
 <tr>
-<td width="48%">
+<td width="48%" align="center">
 
-## INNOVATHON
+<h2 align="center">INNOVATHON</h2>
 
 ```text
 STATUS      : LIVE
@@ -766,10 +814,10 @@ Complete hackathon management platform supporting registrations, judging criteri
 [Live platform](https://innovathon2.onrender.com)
 
 </td>
-<td width="4%"></td>
-<td width="48%">
+<td width="4%" align="center"></td>
+<td width="48%" align="center">
 
-## CLIPSYNC
+<h2 align="center">CLIPSYNC</h2>
 
 ```text
 STATUS      : LIVE
@@ -786,31 +834,31 @@ A secure clipboard management platform for authenticated storage, retrieval, org
 
 ---
 
-# SYSTEM DESIGN PRINCIPLES
+<h1 align="center">SYSTEM DESIGN PRINCIPLES</h1>
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
-### Security
+<h3 align="center">Security</h3>
 - Principle of least privilege
 - Offline-first architecture
 - Privacy by design
 - Secure defaults
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-### Performance
+<h3 align="center">Performance</h3>
 - Efficient APIs
 - Lightweight services
 - Database optimization
 - Fast visualizations
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-### Maintainability
+<h3 align="center">Maintainability</h3>
 - Modular architecture
 - Documentation
 - Type safety
@@ -822,7 +870,7 @@ A secure clipboard management platform for authenticated storage, retrieval, org
 
 ---
 
-# EXPERIENCE LOG
+<h1 align="center">EXPERIENCE LOG</h1>
 
 ```text
 ----------------------------------------------------------------------------
@@ -834,12 +882,12 @@ A secure clipboard management platform for authenticated storage, retrieval, org
 <tr>
 <td width="18%" align="center">
 
-## 2026
+<h2 align="center">2026</h2>
 
 </td>
-<td width="82%">
+<td width="82%" align="center">
 
-### CYBER SECURITY SUMMER INTERN
+<h3 align="center">CYBER SECURITY SUMMER INTERN</h3>
 **Gurugram Police Cyber Security Summer Internship (GPCSSI)**
 
 Worked on investigation-focused cybersecurity projects inspired by real operational requirements. Designed systems centered around telecom intelligence, AI-assisted analysis, backend architecture, and digital investigation workflows.
@@ -849,12 +897,12 @@ Worked on investigation-focused cybersecurity projects inspired by real operatio
 <tr>
 <td align="center">
 
-## 2025
+<h2 align="center">2025</h2>
 
 </td>
-<td>
+<td align="center">
 
-### STUDENT INTERN
+<h3 align="center">STUDENT INTERN</h3>
 **Amity University Haryana**
 
 Designed and developed institutional software platforms while contributing to backend services, data processing pipelines, automation, and university technology initiatives.
@@ -864,12 +912,12 @@ Designed and developed institutional software platforms while contributing to ba
 <tr>
 <td align="center">
 
-## 2025
+<h2 align="center">2025</h2>
 
 </td>
-<td>
+<td align="center">
 
-### CYBER SECURITY INTERN
+<h3 align="center">CYBER SECURITY INTERN</h3>
 **National Informatics Centre (MeitY)**
 
 Participated in vulnerability assessment and security analysis activities across government technology infrastructure. Worked with reconnaissance and assessment tools including Nmap, Nikto, HTTPX, SSLyze, Wappalyzer, and Nuclei.
@@ -879,12 +927,12 @@ Participated in vulnerability assessment and security analysis activities across
 <tr>
 <td align="center">
 
-## 2024
+<h2 align="center">2024</h2>
 
 </td>
-<td>
+<td align="center">
 
-### CYBER SECURITY INTERN
+<h3 align="center">CYBER SECURITY INTERN</h3>
 **Embrizon Technologies**
 
 Received practical exposure to penetration testing, reconnaissance, vulnerability assessment, reporting, and cybersecurity methodologies.
@@ -894,12 +942,12 @@ Received practical exposure to penetration testing, reconnaissance, vulnerabilit
 <tr>
 <td align="center">
 
-## 2024
+<h2 align="center">2024</h2>
 
 </td>
-<td>
+<td align="center">
 
-### WEB DEVELOPMENT INTERN
+<h3 align="center">WEB DEVELOPMENT INTERN</h3>
 **Prodigy InfoTech**
 
 Built responsive web applications while strengthening frontend engineering practices and JavaScript development.
@@ -910,21 +958,21 @@ Built responsive web applications while strengthening frontend engineering pract
 
 ---
 
-# CERTIFICATIONS
+<h1 align="center">CERTIFICATIONS</h1>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### Cybersecurity
+<h3 align="center">Cybersecurity</h3>
 - Fortinet Certified Fundamentals
 - IBM Cybersecurity Fundamentals
 - Cisco Introduction to Cybersecurity
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### Development
+<h3 align="center">Development</h3>
 - Google Cloud Fundamentals
 - Google Generative AI
 - Responsive Web Design
@@ -936,30 +984,30 @@ Built responsive web applications while strengthening frontend engineering pract
 
 ---
 
-# ACHIEVEMENTS
+<h1 align="center">ACHIEVEMENTS</h1>
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center">
 
-## TROPHY
-### IIT Bombay CTF
+<h2 align="center">TROPHY</h2>
+<h3 align="center">IIT Bombay CTF</h3>
 13th Place  
 IEEE-CS x IIT Bombay Trust Lab
 
 </td>
 <td width="33%" align="center">
 
-## STREAK
-### TryHackMe
+<h2 align="center">STREAK</h2>
+<h3 align="center">TryHackMe</h3>
 100-Day Streak  
 Level 0x8 Hacker
 
 </td>
 <td width="33%" align="center">
 
-## BUILD
-### SIH 2024
+<h2 align="center">BUILD</h2>
+<h3 align="center">SIH 2024</h3>
 Participant  
 National Innovation Challenge
 
@@ -969,13 +1017,13 @@ National Innovation Challenge
 
 ---
 
-# EDUCATION
+<h1 align="center">EDUCATION</h1>
 
-<table>
+<table width="100%">
 <tr>
-<td width="100%">
+<td width="100%" align="center">
 
-## Bachelor of Technology
+<h2 align="center">Bachelor of Technology</h2>
 **Computer Science Engineering**  
 Amity University Haryana  
 2023 - 2027
@@ -984,7 +1032,7 @@ Amity University Haryana
 CGPA: 8.46 / 10.00
 ```
 
-### Leadership
+<h3 align="center">Leadership</h3>
 - Mission Veerangana Organising Team
 - Former Nihon Culture Club Coordinator
 - University Digital Club Member
@@ -999,7 +1047,7 @@ CGPA: 8.46 / 10.00
   <img src="assets/divider.svg" width="100%" alt="divider">
 </div>
 
-# GITHUB ANALYTICS
+<h1 align="center">GITHUB ANALYTICS</h1>
 
 ```text
 GITHUB TELEMETRY
@@ -1012,11 +1060,11 @@ MODE           Build systems that investigate
 ------------------------------------------------------------
 ```
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center">
 
-### CODEBASES
+<h3 align="center">CODEBASES</h3>
 
 ```text
 Security Platforms
@@ -1028,7 +1076,7 @@ Backend Services
 </td>
 <td width="33%" align="center">
 
-### ACTIVITY
+<h3 align="center">ACTIVITY</h3>
 
 ```text
 Research
@@ -1041,7 +1089,7 @@ Deploy
 </td>
 <td width="33%" align="center">
 
-### SIGNAL
+<h3 align="center">SIGNAL</h3>
 
 ```text
 Offline-first
@@ -1056,7 +1104,7 @@ Analyst-focused
 
 ---
 
-# CONTRIBUTION GRAPH
+<h1 align="center">CONTRIBUTION GRAPH</h1>
 
 ```text
 CONTRIBUTION STREAM
@@ -1072,7 +1120,7 @@ Sun  [#]   review, notes, roadmap
 ```
 ---
 
-# CURRENT RESEARCH
+<h1 align="center">CURRENT RESEARCH</h1>
 
 ```text
 ============================================================
@@ -1091,7 +1139,7 @@ ACTIVE RESEARCH DIRECTIVES
 
 ---
 
-# DEVELOPMENT METRICS
+<h1 align="center">DEVELOPMENT METRICS</h1>
 
 ```text
 Backend Engineering         [#######################-] 95%
@@ -1103,7 +1151,7 @@ Frontend Development        [#################-------] 72%
 
 ---
 
-# ENGINEERING PHILOSOPHY
+<h1 align="center">ENGINEERING PHILOSOPHY</h1>
 
 ```mermaid
 graph LR
@@ -1114,23 +1162,23 @@ graph LR
     Evidence ==> Decision
 ```
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
-### Collect
+<h3 align="center">Collect</h3>
 Acquire information from multiple sources while preserving integrity.
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-### Correlate
+<h3 align="center">Correlate</h3>
 Link entities through graph analysis and contextual enrichment.
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-### Investigate
+<h3 align="center">Investigate</h3>
 Present evidence through intuitive visual interfaces instead of raw datasets.
 
 </td>
@@ -1139,7 +1187,7 @@ Present evidence through intuitive visual interfaces instead of raw datasets.
 
 ---
 
-# SYSTEM PHILOSOPHY
+<h1 align="center">SYSTEM PHILOSOPHY</h1>
 
 > Modern cybersecurity is not about producing more alerts. It is about producing better intelligence.
 
@@ -1149,13 +1197,13 @@ That philosophy drives every project I build.
 
 ---
 
-# REPOSITORY SPOTLIGHT
+<h1 align="center">REPOSITORY SPOTLIGHT</h1>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### ARGUS
+<h3 align="center">ARGUS</h3>
 
 ```text
 TYPE       Telecom Intelligence Platform
@@ -1167,9 +1215,9 @@ STATUS     Operational
 [Open repository](https://github.com/Sid1125/tifm-cdr-ipdr-visualizer)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### SENTINEL
+<h3 align="center">SENTINEL</h3>
 
 ```text
 TYPE       AI Threat Intelligence Platform
@@ -1183,9 +1231,9 @@ STATUS     Active development
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### AGENTRECON
+<h3 align="center">AGENTRECON</h3>
 
 ```text
 TYPE       Automated Recon Pipeline
@@ -1197,9 +1245,9 @@ STATUS     Deployed
 [Access repository](https://github.com/Sid1125/AgentRecon)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### AI RESEARCH AGENT
+<h3 align="center">AI RESEARCH AGENT</h3>
 
 ```text
 TYPE       Offline RAG Assistant
@@ -1215,7 +1263,7 @@ STATUS     Stable
 </table>
 ---
 
-# CURRENT LEARNING ROADMAP
+<h1 align="center">CURRENT LEARNING ROADMAP</h1>
 
 ```text
 2026
@@ -1229,7 +1277,7 @@ STATUS     Stable
 
 ---
 
-# OPERATING ENVIRONMENT
+<h1 align="center">OPERATING ENVIRONMENT</h1>
 
 | Environment | Usage |
 |:--|:--|
@@ -1244,7 +1292,7 @@ STATUS     Stable
 
 ---
 
-# TERMINAL
+<h1 align="center">TERMINAL</h1>
 
 ```bash
 $ whoami
@@ -1269,7 +1317,7 @@ ONLINE
 
 ---
 
-# CONTACT
+<h1 align="center">CONTACT</h1>
 
 <div align="center">
   <a href="mailto:siddharthsinha1125@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -1294,10 +1342,12 @@ ONLINE
 ============================================================
 ```
 
-## Building Intelligence Systems
+<h2 align="center">Building Intelligence Systems</h2>
 
 <img src="assets/footer.svg" width="100%" alt="Footer">
 
 </div>
+
+
 
 
