@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img width="100%" src="assets/banner.svg" alt="Siddharth Sinha banner">
   <br><br>
 
@@ -134,7 +134,7 @@ RESEARCH:
 ### AI Systems
 
 ```text
-██████████
+##########
 ONLINE
 ```
 
@@ -144,7 +144,7 @@ ONLINE
 ### Threat Intelligence
 
 ```text
-██████████
+##########
 ONLINE
 ```
 
@@ -154,7 +154,7 @@ ONLINE
 ### Digital Forensics
 
 ```text
-██████████
+##########
 ONLINE
 ```
 
@@ -166,7 +166,7 @@ ONLINE
 ### Backend Engineering
 
 ```text
-██████████
+##########
 ONLINE
 ```
 
@@ -176,7 +176,7 @@ ONLINE
 ### Vulnerability Assessment
 
 ```text
-██████████
+##########
 ONLINE
 ```
 
@@ -186,7 +186,7 @@ ONLINE
 ### Research
 
 ```text
-██████████
+##########
 ONLINE
 ```
 
@@ -369,15 +369,15 @@ ONLINE
 
 ```text
 ARGUS
-██████████
+##########
 ONLINE
 --------------
 SENTINEL
-████████░░
+########--
 BUILDING
 --------------
 AGENTRECON
-██████████
+##########
 ONLINE
 ```
 
@@ -1001,21 +1001,75 @@ CGPA: 8.46 / 10.00
 
 # GITHUB ANALYTICS
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sid1125&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=ffffff&border_radius=12" alt="GitHub stats">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sid1125&theme=dark&hide_border=true&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&background=00000000" alt="GitHub streak">
-  <br><br>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid1125&layout=compact&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=ffffff" alt="Top languages">
-</div>
+```text
+GITHUB TELEMETRY
+------------------------------------------------------------
+PROFILE        Sid1125
+FOCUS          Cybersecurity | AI | Digital Forensics
+PRIMARY STACK  Python | FastAPI | PostgreSQL | React | Docker
+RESEARCH       Telecom Intelligence | Threat Intelligence
+MODE           Build systems that investigate
+------------------------------------------------------------
+```
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### CODEBASES
+
+```text
+Security Platforms
+Investigation Tools
+AI Systems
+Backend Services
+```
+
+</td>
+<td width="33%" align="center">
+
+### ACTIVITY
+
+```text
+Research
+Build
+Analyze
+Document
+Deploy
+```
+
+</td>
+<td width="33%" align="center">
+
+### SIGNAL
+
+```text
+Offline-first
+Privacy-aware
+Evidence-driven
+Analyst-focused
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 # CONTRIBUTION GRAPH
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sid1125&bg_color=000000&color=ffffff&line=8B0000&point=ffffff&area=true&hide_border=true" alt="Contribution graph">
-</div>
-
+```text
+CONTRIBUTION STREAM
+------------------------------------------------------------
+Mon  [##]  research, backend, documentation
+Tue  [###] platform work, parser logic, analysis modules
+Wed  [##]  security tooling, automation, reports
+Thu  [###] APIs, dashboards, investigation workflow
+Fri  [##]  testing, cleanup, deployments
+Sat  [#]   learning, experiments, prototypes
+Sun  [#]   review, notes, roadmap
+------------------------------------------------------------
+```
 ---
 
 # CURRENT RESEARCH
@@ -1040,11 +1094,11 @@ ACTIVE RESEARCH DIRECTIVES
 # DEVELOPMENT METRICS
 
 ```text
-Backend Engineering         ████████████████████████ 95%
-Cybersecurity               ███████████████████████  92%
-Threat Intelligence         █████████████████████    86%
-Artificial Intelligence     ████████████████████     83%
-Frontend Development        ████████████████         72%
+Backend Engineering         [#######################-] 95%
+Cybersecurity               [######################--] 92%
+Threat Intelligence         [#####################---] 86%
+Artificial Intelligence     [####################----] 83%
+Frontend Development        [#################-------] 72%
 ```
 
 ---
@@ -1097,25 +1151,80 @@ That philosophy drives every project I build.
 
 # REPOSITORY SPOTLIGHT
 
-<div align="center">
-  <a href="https://github.com/Sid1125/tifm-cdr-ipdr-visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sid1125&repo=tifm-cdr-ipdr-visualizer&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=ffffff" alt="ARGUS repository"></a>
-  <a href="https://github.com/Sid1125/Project-SENTINEL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sid1125&repo=Project-SENTINEL&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=ffffff" alt="SENTINEL repository"></a>
-  <a href="https://github.com/Sid1125/AgentRecon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sid1125&repo=AgentRecon&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=ffffff" alt="AgentRecon repository"></a>
-  <a href="https://github.com/Sid1125/Primitive-Research-RAG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sid1125&repo=Primitive-Research-RAG&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=ffffff" alt="AI Research Agent repository"></a>
-</div>
+<table>
+<tr>
+<td width="50%">
 
+### ARGUS
+
+```text
+TYPE       Telecom Intelligence Platform
+STACK      FastAPI | PostgreSQL | D3.js | AI
+MISSION    CDR/IPDR investigation and graph analysis
+STATUS     Operational
+```
+
+[Open repository](https://github.com/Sid1125/tifm-cdr-ipdr-visualizer)
+
+</td>
+<td width="50%">
+
+### SENTINEL
+
+```text
+TYPE       AI Threat Intelligence Platform
+STACK      FastAPI | React | WebSockets | Ollama
+MISSION    Offline SOC discovery and intelligence
+STATUS     Active development
+```
+
+[View project](https://github.com/Sid1125/Project-SENTINEL)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### AGENTRECON
+
+```text
+TYPE       Automated Recon Pipeline
+STACK      Python | Nmap | Masscan | Nikto | Docker
+MISSION    Attack surface intelligence
+STATUS     Deployed
+```
+
+[Access repository](https://github.com/Sid1125/AgentRecon)
+
+</td>
+<td width="50%">
+
+### AI RESEARCH AGENT
+
+```text
+TYPE       Offline RAG Assistant
+STACK      Python | FastAPI | TF-IDF | Local Models
+MISSION    Private document-grounded intelligence
+STATUS     Stable
+```
+
+[View project](https://github.com/Sid1125/Primitive-Research-RAG)
+
+</td>
+</tr>
+</table>
 ---
 
 # CURRENT LEARNING ROADMAP
 
 ```text
 2026
-████████████████████████████████████████  Telecom Intelligence
-██████████████████████████████            MITRE ATT&CK Automation
-████████████████████████████              Offline AI Agents
-██████████████████████████                Graph Analytics
-██████████████████████████████            Distributed Backend Systems
-████████████████████████████████          Cyber Threat Intelligence
+########################################  Telecom Intelligence
+##############################            MITRE ATT&CK Automation
+############################              Offline AI Agents
+##########################                Graph Analytics
+##############################            Distributed Backend Systems
+################################          Cyber Threat Intelligence
 ```
 
 ---
@@ -1190,3 +1299,5 @@ ONLINE
 <img src="assets/footer.svg" width="100%" alt="Footer">
 
 </div>
+
+
