@@ -1,170 +1,201 @@
-# 👋 Hi, I'm Siddharth Sinha  
+# 👋 Hi, I'm Siddharth Sinha
 
-### 🔐 Cybersecurity | AI Systems | Full-Stack Development  
+**Third-year B.Tech CSE student @ Amity University Haryana** — building at the intersection of **cybersecurity, AI systems, and forensic-grade backend architecture**.
 
-Third-year B.Tech Computer Science student at Amity University Haryana, working at the intersection of **cybersecurity, AI systems, and scalable backend architecture**.  
-
-I focus on building **intelligent security platforms, automated reconnaissance pipelines, and LLM-integrated systems** that move beyond theory into real-world applications.
+I design intelligent security platforms, automated reconnaissance pipelines, and LLM-integrated systems that move from research into real-world deployment. My work spans telecom forensics, network threat intelligence, and privacy-preserving AI.
 
 ---
 
-## 🛡️ Cybersecurity & AI Focus  
+## 🔐 Cybersecurity & AI Focus
 
-- Building **SOC-style systems** and automated threat intelligence pipelines  
-- Working with **network security, vulnerability assessment, and reconnaissance automation**  
-- Exploring **AI-driven security workflows**, including anomaly detection and LLM-based systems  
-- Integrating **threat intelligence sources** (CVE, AlienVault OTX, AbuseIPDB)  
-
----
-
-## 🛠️ Technical Skills  
-
-- **Languages:** Python, C, C++, JavaScript  
-- **Cybersecurity:** Nmap, Wireshark, Burp Suite, Metasploit, Nikto, Gobuster  
-- **Backend & Systems:** FastAPI, Node.js, SQLAlchemy, REST APIs, WebSockets  
-- **Databases:** MySQL, MongoDB (Basics), SQLite  
-- **AI/ML:** XGBoost, NLP pipelines, RAG systems, LLM integration (Ollama/OpenAI)  
-- **Frontend:** React, HTML, CSS, Tailwind  
-- **Tools:** Git, Linux, Docker (Basics), Postman  
+- Telecom forensics & CDR/IPDR investigation platforms
+- SOC-style threat monitoring with AI-driven analysis
+- Automated reconnaissance & vulnerability assessment pipelines
+- Offline-first, air-gapped security systems for sensitive environments
+- Threat intelligence integration (CVE, AlienVault OTX, AbuseIPDB)
 
 ---
 
-## 🚀 Key Projects  
+## 🛠️ Technical Skills
 
-### 🔹 [Project SENTINEL](https://github.com/Sid1125/Project-SENTINEL)  
-**AI-powered Network Threat Intelligence & Monitoring Platform**  
-
-- Full-stack cybersecurity platform using FastAPI, React, and WebSockets  
-- ARP scanning + Nmap enumeration with CVE-based vulnerability analysis  
-- Natural language control via local LLMs (Ollama)  
-- Modular SOC-style architecture (extensible to IDS/IPS & auto-defense)  
-
----
-
-### 🔹 [AI Research Agent (RAG System)](https://github.com/Sid1125/Primitive-Research-RAG)  
-**LLM-powered Private Document Question Answering System**  
-
-- Hybrid RAG pipeline (NLTK + chunking + dense + TF-IDF retrieval)  
-- Custom Siamese BiLSTM embedding model (Keras)  
-- Grounded LLM answers with extractive fallback  
-- Modular pipeline: ingestion → retrieval → generation  
+| Area | Technologies |
+|------|-------------|
+| **Cybersecurity** | Vulnerability Assessment, Penetration Testing, Wireshark, Burp Suite, Nmap, Metasploit, OWASP Top 10, Threat Modelling |
+| **Languages** | Python, C, C++, JavaScript |
+| **Backend & Systems** | FastAPI, Node.js, SQLAlchemy, REST APIs, WebSockets, Pandas, NetworkX |
+| **Databases** | PostgreSQL, SQLite, MySQL, MongoDB (Basics) |
+| **AI/ML** | Ollama, OpenAI API, RAG Systems, TF-IDF, Embeddings, Keras, XGBoost, LoRA Fine-Tuning, Local-First AI |
+| **Frontend & Data Viz** | React, Next.js, HTML/CSS, TailwindCSS, Streamlit, D3.js, Leaflet, Chart.js |
+| **Tools** | Git, Linux, Docker (Basics), Postman |
 
 ---
 
-### 🔹 [F1 Insight Platform](https://github.com/Sid1125/F1-Insight)  
-**Full-stack Analytics & Race Strategy Simulation System**  
+## 🚀 Key Projects
 
-- FastAPI + Streamlit + SQLAlchemy analytics system  
-- XGBoost-based race outcome prediction  
-- Strategy simulation (pit stops, tyre management)  
-- AI-powered natural language querying  
+### 🔹 Project ARGUS
+*Telecom Forensics Investigation Platform*
 
----
+Full-stack CDR/IPDR forensics system for law enforcement and cybersecurity analysts. Reconstructs communication patterns, visualizes network relationships via D3.js force-directed graphs, tracks tower movements on Leaflet maps, detects suspicious activity through spatiotemporal analysis. Generates court-admissible dossier exports with chain-of-custody metadata. Operates fully offline via Ollama/LoRA for air-gapped deployments.
 
-### 🔹 [AgentRecon](https://github.com/Sid1125/AgentRecon)  
-**AI-assisted Reconnaissance & Vulnerability Analysis Pipeline**  
-
-- Automated recon using Nmap, Masscan, Nikto, Gobuster, SSLyze  
-- CVE enrichment via NVD + AlienVault OTX  
-- AI-based false positive filtering  
+**Stack:** FastAPI · Python · SQLAlchemy · Pandas · NetworkX · D3.js · Leaflet · Ollama · PostgreSQL  
+[GitHub](https://github.com/sid1125/tifm-cdr-ipdr-visualizer)
 
 ---
 
-### 🔹 [HITMEN](https://github.com/Sid1125/hitmen_epi_prevention)  
-**Community-driven Harmful Content Tracking Platform**  
+### 🔹 Project SENTINEL (WIP)
+*AI-Powered Network Threat Intelligence & Monitoring Platform*
 
-- Crowdsourced tracking system for flagged entities  
-- Discord API integration for real-time updates  
-- Automated verification and moderation pipeline  
+Real-time network discovery with ARP scanning and Nmap enumeration, local CVE intelligence engine, natural language control via local LLMs. Modular SOC-style architecture designed for offline-first deployment in classified environments.
 
----
-
-### 🔹 [Discord Bot – Dr FUSED](https://github.com/Sid1125/DrFUSED)  
-**Modular Automation & Moderation System**  
-
-- Built using Node.js and MongoDB  
-- Role-based access control and permission logic  
-- Moderation, logging, and interactive commands  
+**Stack:** FastAPI · React · WebSockets · Ollama · Nmap · Python · Docker  
+[GitHub](https://github.com/Sid1125/Project-SENTINEL)
 
 ---
 
-### 🔹 [Innovathon Platform](https://innovathon2.onrender.com)  
-**Full-stack Hackathon Management System**  
+### 🔹 AgentRecon
+*AI-Assisted Reconnaissance & Vulnerability Analysis Pipeline*
 
-- Event platform with structured sections (tracks, sponsors, timelines)  
-- Responsive UI and scalable content architecture  
-- Designed for real-world deployment  
+Orchestrates Nmap, Masscan, Nikto, Gobuster, and SSLyze through a unified pipeline. Enriches findings with real-time CVE data from NVD and AlienVault OTX. Applies ML-based false positive filtering for prioritized, actionable reports.
 
----
-
-### 🔹 [Mission Veerangana Website](https://mission-veerangana-site.onrender.com/)  
-**Workshop Platform for Women’s Safety Initiative**  
-
-- Built for a workshop in collaboration with Haryana Police & AUH  
-- Structured event content, training modules, and registration flow  
-- Focus on awareness, accessibility, and outreach  
+**Stack:** Python · Nmap · Masscan · Scikit-learn · NVD API · AlienVault OTX · Docker  
+[GitHub](https://github.com/sid1125/AgentRecon)
 
 ---
 
-### 🔹 [Global Connect Hub](https://global-connect-hub-two.vercel.app/)  
-**University Collaboration & Outreach Platform**  
+### 🔹 AI Research Agent (RAG System)
+*LLM-Powered Private Document QA System*
 
-- Platform for international programs and partnerships  
-- Multi-section architecture (partners, impact, testimonials)  
-- Responsive and scalable UI design  
+Hybrid RAG pipeline with custom Siamese BiLSTM embedding model (Keras) + TF-IDF retrieval. Grounded answer generation with extractive fallback — zero hallucinations. Fully offline for privacy-sensitive research environments.
 
----
-
-### 🔹 [ClipSync](https://clip-sync-three.vercel.app/sign-in.html)  
-**Authenticated Clipboard & Content Management System**  
-
-- User authentication and session handling  
-- Search, filtering, and structured content storage  
-- Clean UI for managing text-based data  
+**Stack:** Python · Keras · TensorFlow · TF-IDF · Streamlit · Sentence-Transformers · FastAPI  
+[GitHub](https://github.com/Sid1125/Primitive-Research-RAG)
 
 ---
 
-## 🏆 Achievements  
+### 🔹 F1 Insight Platform
+*Full-Stack Analytics & Race Strategy Simulation*
 
-- 🥇 Top 13 / 80 teams in CTF (IEEE-CS × IIT Bombay Trust Lab)  
-- 💡 Participant – Smart India Hackathon 2024  
-- 🔥 100-day streak on TryHackMe (Level: Hacker)  
+XGBoost-based race outcome prediction, strategy simulation (pit stops, tyre management, fuel load), AI-powered natural language querying. Processes historical telemetry from Ergast API and FastF1.
 
----
-
-## 📜 Certifications  
-
-- Cybersecurity Fundamentals – IBM SkillsBuild  
-- Introduction to Cybersecurity – Cisco Networking Academy  
-- Fortinet Certified Fundamentals in Cybersecurity  
-- Responsive Web Design – freeCodeCamp  
-- JavaScript Algorithms & Data Structures – freeCodeCamp  
-- Google Cloud Computing Fundamentals & Generative AI – Google Cloud  
+**Stack:** FastAPI · Streamlit · SQLAlchemy · XGBoost · Python · Pandas · Plotly · FastF1  
+[GitHub](https://github.com/Sid1125/F1-Insight)
 
 ---
 
-## 📚 Currently Exploring  
+### 🔹 HITMEN
+*Community-Driven Harmful Content Tracking Platform*
 
-- Advanced cybersecurity systems & adversarial AI  
-- Red team automation and MITRE ATT&CK simulations  
-- LLM-integrated security tooling  
-- Scalable backend architectures  
+Crowdsourced reporting with Discord API integration for automated entity fetching, real-time state machine tracking moderation lifecycle, anonymous reporting, and escalation workflows.
 
----
-
-## 📫 Connect  
-
-* Email: [siddharthsinha1125@gmail.com](mailto:siddharthsinha1125@gmail.com)
-* LinkedIn: [Siddharth Sinha](https://www.linkedin.com/in/ssinha1125/)
-* GitHub: [@Sid1125](https://github.com/Sid1125)
+**Stack:** HTML · CSS · JavaScript · Discord API · TailwindCSS · Node.js  
+[Live Site](https://sid1125.github.io/hitmen_epi_prevention/) · [GitHub](https://github.com/Sid1125/hitmen_epi_prevention)
 
 ---
 
-## 🎯 Goals  
+### 🔹 Innovathon Platform
+*Full-Stack Hackathon Management System*
 
-- **Short-term:** Build advanced cybersecurity tooling and deepen AI integration  
-- **Long-term:** Develop autonomous AI-driven defense systems and contribute to open-source security  
+Multi-section event platform with sponsor showcase, competition tracks, judging criteria, real-time timeline management, and team registration. Glassmorphism UI with animated transitions.
+
+**Stack:** HTML · CSS · JavaScript · React · TailwindCSS · Vite  
+[Live Site](https://innovathon2.onrender.com)
 
 ---
 
-💡 *Building systems that don’t just work — but defend.*
+### 🔹 OIA International Hub
+*University Collaboration & Outreach Platform*
+
+Professional platform for the Office of International Affairs at Amity University. Program listings, partner university profiles with geographic mapping, student testimonial carousels, integrated inquiry system.
+
+**Stack:** React · Next.js · TailwindCSS · JavaScript  
+[Live Site](https://global-connect-hub-two.vercel.app/)
+
+---
+
+### 🔹 ClipSync
+*Authenticated Clipboard & Content Management System*
+
+User authentication, session handling, search and filtering, structured content storage with clean UI for managing text-based data.
+
+**Stack:** HTML · CSS · JavaScript  
+[Live Site](https://clip-sync-three.vercel.app/sign-in.html)
+
+---
+
+### 🔹 Mission Veerangana
+*Workshop Platform for Women's Safety Initiative*
+
+Built for a workshop in collaboration with Haryana Police & Amity University. Structured event content, training modules, registration flow.
+
+**Stack:** HTML · CSS · JavaScript  
+[Live Site](https://mission-veerangana-site.onrender.com/)
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Period |
+|------|-------------|--------|
+| **Cyber Security Summer Intern** | Gurugram Police Cyber Security Summer Internship (GPCSSI) | Jun 2026 |
+| **Student Intern** | Amity University Gurgaon | Sept 2025 – Present |
+| **Cyber Security Intern** | National Informatics Centre (MeitY) | Jun 2025 – Jul 2025 |
+| **Cyber Security Intern** | Embrizon Technologies | Dec 2024 – Feb 2025 |
+| **Web Development Intern** | Prodigy InfoTech | Sept 2024 – Oct 2024 |
+
+---
+
+## 🏆 Achievements
+
+- **TryHackMe 100-Day Streak** — Rank 200,830 · Level [0x8][HACKER]  
+  [Profile](https://tryhackme.com/p/sid1125)
+- **IIT Bombay CTF** — 13th / 80 teams (IEEE-CS × IIT Bombay Trust Lab)
+- **Smart India Hackathon 2024** — Participant (Problem Statement SIH1674)
+
+---
+
+## 📜 Certifications
+
+- **Fortinet Certified Fundamentals in Cybersecurity** — Fortinet (Apr 2025)
+- **Cybersecurity Fundamentals** — IBM SkillsBuild (Apr 2025)
+- **Introduction to Cybersecurity** — Cisco Networking Academy (Apr 2025)
+- **Google Cloud Computing Fundamentals & Generative AI** — Google Cloud (2025)
+- **Responsive Web Design** — freeCodeCamp (Nov 2024)
+- **JavaScript Algorithms & Data Structures** — freeCodeCamp (2024)
+
+---
+
+## 🎓 Education
+
+**B.Tech. Computer Science Engineering** — Amity University Haryana (2023–2027)  
+**CGPA:** 8.46  
+**Leadership:** Mission Veerangana organising team, former Nihon Culture Club Coordinator, member of University Digital Club
+
+---
+
+## 🌐 Languages
+
+- **English** — Native / Bilingual Proficiency
+- **Hindi** — Native / Bilingual Proficiency
+- **Japanese** — Elementary Proficiency
+
+---
+
+## 📚 Currently Exploring
+
+- Telecom-grade forensic investigation workflows
+- Red team automation & MITRE ATT&CK simulation
+- Adversarial AI & LLM-integrated security tooling
+- Scalable backend architectures for threat intelligence platforms
+
+---
+
+## 📫 Connect
+
+- **Email:** [siddharthsinha1125@gmail.com](mailto:siddharthsinha1125@gmail.com)
+- **LinkedIn:** [Siddharth Sinha](https://www.linkedin.com/in/ssinha1125/)
+- **GitHub:** [@Sid1125](https://github.com/Sid1125)
+- **TryHackMe:** [sid1125](https://tryhackme.com/p/sid1125)
+
+---
+
+> *Building systems that don't just work — they defend.*
