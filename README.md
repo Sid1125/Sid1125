@@ -1066,6 +1066,7 @@ CGPA: 8.46 / 10.00
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sid1125/Sid1125/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake">
 </div>
+
 ---
 
 <h1 align="center">GITHUB ANALYTICS BACKUP</h1>
