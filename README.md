@@ -1047,7 +1047,26 @@ CGPA: 8.46 / 10.00
   <img src="assets/divider.svg" width="100%" alt="divider">
 </div>
 
-<h1 align="center">GITHUB ANALYTICS</h1>
+<h1 align="center">LIVE GITHUB ANALYTICS</h1>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sid1125&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=ffffff&border_radius=12&disable_animations=true" alt="GitHub stats">
+  <img width="49%" src="https://streak-stats.demolab.com?user=Sid1125&theme=dark&hide_border=true&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&background=00000000" alt="GitHub streak">
+  <br><br>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid1125&layout=compact&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=ffffff&disable_animations=true" alt="Top languages">
+</div>
+
+---
+
+<h1 align="center">CONTRIBUTION GRAPH</h1>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sid1125&bg_color=000000&color=ffffff&line=8B0000&point=ffffff&area=true&hide_border=true" alt="GitHub contribution graph">
+</div>
+
+---
+
+<h1 align="center">GITHUB ANALYTICS BACKUP</h1>
 
 ```text
 GITHUB TELEMETRY
@@ -1262,9 +1281,6 @@ STATUS     Stable
 </tr>
 </table>
 ---
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sid1125/Sid1125/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake">
-</div>
 
 <h1 align="center">CURRENT LEARNING ROADMAP</h1>
 
@@ -1350,6 +1366,7 @@ ONLINE
 <img src="assets/footer.svg" width="100%" alt="Footer">
 
 </div>
+
 
 
 
