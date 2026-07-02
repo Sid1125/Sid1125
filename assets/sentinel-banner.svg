@@ -1,0 +1,26 @@
+<svg width="1600" height="360" viewBox="0 0 1600 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="55%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#310000"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="360" fill="url(#bg)"/>
+  <g opacity="0.22" stroke="#8b0000" fill="none">
+    <path d="M0 300C240 250 350 330 560 260S880 230 1080 170 1360 110 1600 150" stroke-width="3"/>
+    <path d="M0 255C260 210 430 285 650 220S980 170 1210 115 1430 100 1600 80" stroke-width="2"/>
+  </g>
+  <g transform="translate(1200 175)" stroke="#8b0000" fill="none" opacity="0.8">
+    <path d="M0 -95L82 -48V48L0 95L-82 48V-48Z" stroke-width="4"/>
+    <path d="M0 -55L48 -28V28L0 55L-48 28V-28Z" stroke-width="2"/>
+    <circle r="14" fill="#8b0000"/>
+    <path d="M-145 0H-82M82 0H145M0 -145V-95M0 95V145" stroke-width="3"/>
+  </g>
+  <g font-family="JetBrains Mono, Consolas, monospace">
+    <text x="90" y="125" fill="#ffffff" font-size="58" font-weight="700">OPERATION SENTINEL</text>
+    <text x="92" y="175" fill="#8b0000" font-size="24">AI THREAT INTELLIGENCE PLATFORM</text>
+    <text x="92" y="226" fill="#a0a0a0" font-size="18">DISCOVERY | VULNERABILITY CORRELATION | LOCAL LLM SECURITY ASSISTANT</text>
+    <rect x="92" y="260" width="560" height="3" fill="#8b0000"/>
+  </g>
+</svg>
