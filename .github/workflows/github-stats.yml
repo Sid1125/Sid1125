@@ -1,4 +1,4 @@
-name: Generate GitHub Stats
+﻿name: Generate GitHub Stats
 
 on:
   schedule:
@@ -21,21 +21,41 @@ jobs:
           set -euo pipefail
           mkdir -p assets/generated
 
-          curl -L --retry 3 --fail \
+          fetch_card() {
+            local url="$1"
+            local out="$2"
+            local tmp="${out}.tmp"
+
+            echo "Fetching ${out}"
+            if curl -L --retry 6 --retry-delay 10 --retry-all-errors --connect-timeout 20 --max-time 120 --fail "$url" -o "$tmp"; then
+              if grep -qi "<svg" "$tmp"; then
+                mv "$tmp" "$out"
+                echo "Updated ${out}"
+              else
+                echo "::warning::Downloaded content for ${out} was not SVG. Keeping existing file."
+                rm -f "$tmp"
+              fi
+            else
+              echo "::warning::Could not fetch ${out}. External card service may be down. Keeping existing file."
+              rm -f "$tmp"
+            fi
+          }
+
+          fetch_card \
             "https://github-readme-stats.vercel.app/api?username=Sid1125&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=ffffff&border_radius=12&disable_animations=true" \
-            -o assets/generated/github-stats.svg
+            "assets/generated/github-stats.svg"
 
-          curl -L --retry 3 --fail \
+          fetch_card \
             "https://streak-stats.demolab.com?user=Sid1125&theme=dark&hide_border=true&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&background=00000000" \
-            -o assets/generated/github-streak.svg
+            "assets/generated/github-streak.svg"
 
-          curl -L --retry 3 --fail \
+          fetch_card \
             "https://github-readme-stats.vercel.app/api/top-langs/?username=Sid1125&layout=compact&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=ffffff&disable_animations=true" \
-            -o assets/generated/top-langs.svg
+            "assets/generated/top-langs.svg"
 
-          curl -L --retry 3 --fail \
+          fetch_card \
             "https://github-readme-activity-graph.vercel.app/graph?username=Sid1125&bg_color=000000&color=ffffff&line=8B0000&point=ffffff&area=true&hide_border=true" \
-            -o assets/generated/activity-graph.svg
+            "assets/generated/activity-graph.svg"
 
       - name: Sanitize blocked external font imports
         shell: bash
