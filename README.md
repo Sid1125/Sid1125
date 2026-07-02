@@ -2,7 +2,7 @@
   <img width="100%" src="assets/banner.svg" alt="Siddharth Sinha banner">
   <br><br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=8B0000&center=true&vCenter=true&width=950&lines=Cybersecurity+Engineer;Digital+Forensics+Builder;Threat+Intelligence+Systems;AI-Assisted+Security+Platforms;Backend+Architecture;Building+Systems+That+Investigate.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=8B0000&center=true&vCenter=true&width=950&lines=Cybersecurity+Researcher;Digital+Forensics+Builder;Threat+Intelligence+Systems;AI-Assisted+Security+Platforms;Backend+Architecture;Building+Systems+That+Investigate.)](https://git.io/typing-svg)
 
   <br><br>
 
