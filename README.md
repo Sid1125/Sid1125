@@ -9,7 +9,7 @@
   <a href="mailto:siddharthsinha1125@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Sid1125"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/ssinha1125/"><img src="https://img.shields.io/badge/LINKEDIN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://tryhackme.com/p/fusion11"><img src="https://img.shields.io/badge/TRYHACKME-111111?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe"></a>
+  <a href="https://tryhackme.com/p/Fusion11"><img src="https://img.shields.io/badge/TRYHACKME-111111?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe"></a>
 
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=Sid1125&style=for-the-badge&color=8B0000" alt="Profile views">
